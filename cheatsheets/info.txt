@@ -1,0 +1,6 @@
+- Data cleaning
+- Data transformation
+- Data visualization
+- DATA Preparation
+- Pandas
+- Mising values imputation
